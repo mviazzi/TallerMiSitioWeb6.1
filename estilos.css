@@ -1,0 +1,63 @@
+img#RetratoPortafolio {
+    float: right;
+    width: 20%;
+}
+
+img#Ceibal {
+    float: right;
+    width: 10%;
+}
+
+* {
+    font-family:'Segoe UI';
+    background-color: rgb(215, 240, 249);
+    color: rgb(49, 58, 67);
+    /*background-image: url(informatica.jpeg);*/
+}
+
+div {
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+hr {
+    color: rgb(24, 35, 147);
+    height: 12px;
+    background: rgb(66, 138, 173);
+    margin-top: 100px;
+}
+
+h2 {
+background-color: aliceblue;
+text-align: center;
+}
+
+h3 {
+   width: max-content;
+    background-color:rgb(132, 177, 223);
+    color: rgb(30, 30, 31);
+}
+
+h3#contactar{
+    background-color: rgb(201, 224, 244);
+}
+
+.fondo {
+    background-color: aliceblue;
+}
+
+ul li a.referencia {
+    color: rgb(71, 196, 196);
+}
+
+ul li.dot {
+    color: rgb(15, 93, 142);
+}
+
+.fila1 {
+    background-color: rgb(67, 155, 237);
+}
+
+select option {
+    background-color: rgb(101, 188, 207);
+}
